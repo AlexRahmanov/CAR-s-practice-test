@@ -29,3 +29,5 @@ CARs Practice now contains 255 source-derived questions:
 - 55 questions from the supplied ICS Canadian Aviation Regulations examinations whose answers were verified against the supplied CARs reference study manual
 
 The CARs question stems and answer-choice wording were not intentionally rewritten. Items that could not be verified reliably were not added.
+
+https://alexrahmanov.github.io/CAR-s-practice-test/
